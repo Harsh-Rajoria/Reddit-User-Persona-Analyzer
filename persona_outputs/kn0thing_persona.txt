@@ -1,0 +1,57 @@
+User Persona for Reddit User: kn0thing
+==================================================
+
+Interests:
+- thank (mentioned 14 times)
+  * Comment in r/chelseafc (2025-07-11 02:50:08): Thank you UP THE CHELS
+  * Source: https://www.reddit.com/r/chelseafc/comments/1kmkznr/reddit_founder_alexis_ohanian_buys_10_stake_in/n2fqvgh/
+  * Comment in r/chelseafc (2025-05-15 08:48:07): Thank you Excited to show you all the Greatest Show in Track  Field this October 10th for ATHLOS 25 ...
+  * Source: https://www.reddit.com/r/chelseafc/comments/1kmkznr/reddit_founder_alexis_ohanian_buys_10_stake_in/mse0ik4/
+- reddit (mentioned 8 times)
+  * Comment in r/trackandfield (2024-10-05 21:28:32): Figured Id dust off my Reddit account... thanks for the support. The sport has gotten so little inve...
+  * Source: https://www.reddit.com/r/trackandfield/comments/1fvdfq5/not_alexis_ohanian_beefing_with_michael_johnson/lqh1bhi/
+  * Comment in r/u_kn0thing (2021-11-04 04:22:49): Yes. Im a Reddit cofounder.
+  * Source: https://www.reddit.com/r/u_kn0thing/comments/pplbbl/time_asked_me_to_write_a_little_piece_about/hj7n6qp/
+- this (mentioned 5 times)
+  * Comment in r/apolloapp (2025-05-30 03:07:32): I believe This is gonna be fun.
+  * Source: https://www.reddit.com/r/apolloapp/comments/1kyka38/kevin_rose_showed_up_next_to_alexis_ohanian_at/muyjln1/
+  * Comment in r/u_kn0thing (2020-06-08 19:53:07): Thank you very much. This is just the beginning.
+  * Source: https://www.reddit.com/r/u_kn0thing/comments/gx7vqv/what_did_you_do/ftddyru/
+- back (mentioned 5 times)
+  * Comment in r/pics (2023-07-09 23:29:08): I try to visit every time Im back in CVille I hope you started your own tech company there, too.
+  * Source: https://www.reddit.com/r/pics/comments/133w7yq/i_had_lunch_where_reddit_was_born_yesterday/jrawse4/
+  * Comment in r/ethereum (2021-05-11 20:05:10): I was one of the earliest investors in coinbase back in 2012httpstwitter.comsevensevensixstatus13820...
+  * Source: https://www.reddit.com/r/ethereum/comments/n97mzs/alexis_ohanian_cofounder_of_reddit_is_now/gxqeusj/
+- meeting (mentioned 4 times)
+  * Comment in r/u_kn0thing (2025-03-07 16:22:04): Thank you I spent countless hours meeting with redditors all over the world and Im grateful for all ...
+  * Source: https://www.reddit.com/r/u_kn0thing/comments/1j47hdx/once_rival_ceos_kevin_rose_and_i_are_working_on/mghofuk/
+  * Comment in r/CryptoCurrency (2021-05-11 20:37:47): Meeting some impressive founders and past investments in the space have been really cruising lately....
+  * Source: https://www.reddit.com/r/CryptoCurrency/comments/n4b4j3/daily_discussion_may_4_2021_gmt0/gxqjf58/
+
+Sentiment Analysis:
+- Positive: 66 (66.0%)
+- Negative: 9 (9.0%)
+- Neutral: 25 (25.0%)
+
+Activity Level: 100 posts/comments analyzed
+
+Active Subreddits:
+- r/AskReddit
+  * Comment (2020-07-02 07:05:07): Because we originally were going to call the site Snew  so people would ask Whats Snew and we could ...
+  * Source: https://www.reddit.com/r/AskReddit/comments/hjkrf8/whats_reddits_mascot_called/fwnep0e/
+- r/BlackPeopleTwitter
+  * Comment (2023-03-14 20:02:19): Yall are hilarious.
+  * Source: https://www.reddit.com/r/BlackPeopleTwitter/comments/11qqz6k/like_a_work_of_art/jc6yyho/
+- r/Commanders
+  * Comment (2025-01-23 22:47:21): WELL DONE. Especially nice music, too.
+  * Source: https://www.reddit.com/r/Commanders/comments/1i81ir5/please_enjoy_this_hype_video_that_i_made_for_the/m8r6rvm/
+  * Comment (2022-10-20 04:01:46): Yes, Id need to fundraise in order to do it.
+  * Source: https://www.reddit.com/r/Commanders/comments/y8670u/who_should_be_the_new_owner_suggestion_alexis/iszwr01/
+- r/CryptoCurrency
+  * Comment (2022-01-22 00:13:12): Great choices. Im currently working my way through FFVII Remake
+  * Source: https://www.reddit.com/r/CryptoCurrency/comments/rzdj6z/reddit_cofounder_alexis_ohanian_predicts/htms9k6/
+  * Comment (2021-05-11 20:37:47): Meeting some impressive founders and past investments in the space have been really cruising lately....
+  * Source: https://www.reddit.com/r/CryptoCurrency/comments/n4b4j3/daily_discussion_may_4_2021_gmt0/gxqjf58/
+- r/GoForGold
+  * Comment (2022-09-26 00:09:59): 
+  * Source: https://www.reddit.com/r/GoForGold/comments/x7zxii/a_commenter_with_the_earliest_registration_date/ipvenyd/

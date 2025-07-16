@@ -1,0 +1,59 @@
+User Persona for Reddit User: andromeda321
+==================================================
+
+Interests:
+- here (mentioned 17 times)
+  * Comment in r/space (2025-07-16 08:38:50): Astronomer here to elaborate, we are not out of the woods yet While Im happy for NASA, this also sti...
+  * Source: https://www.reddit.com/r/space/comments/1m11h5o/congress_moves_to_reject_bulk_of_white_houses/n3dskd7/
+  * Comment in r/space (2025-07-15 02:06:05): Astronomer here we are not out of the woods yet While Im happy for NASA, this still calls for a 23 c...
+  * Source: https://www.reddit.com/r/space/comments/1lztqwx/house_cjs_releases_draft_spending_bill_including/n354b9f/
+- astronomer (mentioned 15 times)
+  * Comment in r/space (2025-07-16 08:38:50): Astronomer here to elaborate, we are not out of the woods yet While Im happy for NASA, this also sti...
+  * Source: https://www.reddit.com/r/space/comments/1m11h5o/congress_moves_to_reject_bulk_of_white_houses/n3dskd7/
+  * Comment in r/space (2025-07-15 02:06:05): Astronomer here we are not out of the woods yet While Im happy for NASA, this still calls for a 23 c...
+  * Source: https://www.reddit.com/r/space/comments/1lztqwx/house_cjs_releases_draft_spending_bill_including/n354b9f/
+- this (mentioned 11 times)
+  * Comment in r/Astronomy (2025-07-14 22:00:23): Astronomer here I disagree on this title a lot as theres nothing impossible about it. There is no my...
+  * Source: https://www.reddit.com/r/Astronomy/comments/1lzqmoj/gravitational_waves_reveal_most_massive_black/n33nqdv/
+  * Comment in r/Astronomy (2025-07-14 07:43:06): Astronomer here I disagree on this title a lot as theres nothing impossible about it. There is no my...
+  * Source: https://www.reddit.com/r/Astronomy/comments/1lz9m2a/astronomers_detect_a_black_hole_merger_thats_so/n308myl/
+- have (mentioned 8 times)
+  * Comment in r/Astronomy (2025-07-10 22:38:51): I really have no way of telling from a blurry image and no further descriptions from OP, sorry
+  * Source: https://www.reddit.com/r/Astronomy/comments/1lw6tmb/what_object_is_this_i_took_a_50_second_exposure/n2e9k2w/
+  * Comment in r/space (2025-07-10 09:09:53): So where do you have these numbers from then, random Redditor
+  * Source: https://www.reddit.com/r/space/comments/1lw00g2/politico_reports_that_tomorrows_senate_cjs_markup/n2awk7k/
+- just (mentioned 7 times)
+  * Comment in r/space (2025-07-16 08:00:40): Nope, we just add more letters, aa, aaa, etc. Last year we already got to aaaa
+  * Source: https://www.reddit.com/r/space/comments/1m0kt0j/why_do_astronomers_and_scientists_names_celestial/n3dmh6q/
+  * Comment in r/BORUpdates (2025-07-14 16:03:38): I just always thought the look like dad thing was weird because how often are little boys looking at...
+  * Source: https://www.reddit.com/r/BORUpdates/comments/1lzek1g/short_am_i_wrong_for_not_wanting_my_son_to_be/n31wndm/
+
+Sentiment Analysis:
+- Positive: 59 (59.0%)
+- Negative: 19 (19.0%)
+- Neutral: 22 (22.0%)
+
+Activity Level: 100 posts/comments analyzed
+
+Active Subreddits:
+- r/Andromeda321
+  * Comment (2025-07-16 06:13:21): Well its at University of Oregon, not OSU, but thank you 
+  * Source: https://www.reddit.com/r/Andromeda321/comments/1m0ryds/new_paper_i_have_discovered_that_at2018hyz_aka/n3d46lr/
+  * Comment (2025-07-11 06:20:20): Thank you I confess this might be my last first author for a little bit but its because Im helping m...
+  * Source: https://www.reddit.com/r/Andromeda321/comments/1lwr0lh/i_just_submitted_my_paper_to_the_astrophysical/n2gtehb/
+- r/AskAcademia
+  * Comment (2025-07-14 15:23:17): I feel as a general rule, its good for students to go work with someone else at another university j...
+  * Source: https://www.reddit.com/r/AskAcademia/comments/1lzft7l/friendly_supervisor_or_top_institute/n31s7gt/
+  * Comment (2025-07-14 00:13:27): For sure, but this thread is about age discrimination specifically.
+  * Source: https://www.reddit.com/r/AskAcademia/comments/1lyx19j/phd_in_china_cannot_be_older_than_3540_years_old/n2xxw8z/
+- r/Astronomy
+  * Comment (2025-07-14 22:00:23): Astronomer here I disagree on this title a lot as theres nothing impossible about it. There is no my...
+  * Source: https://www.reddit.com/r/Astronomy/comments/1lzqmoj/gravitational_waves_reveal_most_massive_black/n33nqdv/
+  * Comment (2025-07-14 09:19:32): They could be primordial black holes, sure, but right now we dont really have evidence those exist v...
+  * Source: https://www.reddit.com/r/Astronomy/comments/1lz9m2a/astronomers_detect_a_black_hole_merger_thats_so/n30nby5/
+- r/BORUpdates
+  * Comment (2025-07-14 16:03:38): I just always thought the look like dad thing was weird because how often are little boys looking at...
+  * Source: https://www.reddit.com/r/BORUpdates/comments/1lzek1g/short_am_i_wrong_for_not_wanting_my_son_to_be/n31wndm/
+- r/CrossStitch
+  * Post (2025-05-19 19:24:50): FO Nerd alert I just finished the astronomical origin of the elements in cross stitch The original g...
+  * Source: https://www.reddit.com/r/CrossStitch/comments/1kqcafw/fo_nerd_alert_i_just_finished_the_astronomical/
